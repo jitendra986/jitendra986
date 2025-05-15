@@ -1,23 +1,20 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Jitendra Tiwari</h1>
-<h3 align="center">A passionate cloud engineer from India</h3>
+<h3 align="center">A passionate about cloud engineer and Data Analytics.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jitendra986&label=Profile%20views&color=0e75b6&style=flat" alt="jitendra986" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jitendra986" alt="jitendra986" /></a> </p>
 
-- 🔭 I’m currently working on [AI-Driven Time Series Analysis for Failure Detection in Solar Plants](https://www.mdsi.tum.de/en/di-lab/projekte/ws24-baywa-ai-driven-time-series-analysis-for-failure-detection-in-solar-plants/)
-
-- 🌱 I’m currently learning **Kunernates, Terraform**
 
 - 👨‍💻 All of my projects are available at [https://jitendra986.github.io](https://jitendra986.github.io)
 
-- 💬 Ask me about **AWS,Azure, Kubernates, Terraform**
+
 
 - 📫 How to reach me **jitendratiwari11@gmail.com**
 
-- ⚡ Fun fact **Fortune favors the bold**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
