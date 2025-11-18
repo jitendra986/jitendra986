@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Jitendra Tiwari</h1>
-<h3 align="center">I am  passionate about cloud engineer and Data Analytics.</h3>
+<h3 align="center">I am  passionate about devOPs engineering, cloud services and Data analytics.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jitendra986&label=Profile%20views&color=0e75b6&style=flat" alt="jitendra986" /> </p>
 
